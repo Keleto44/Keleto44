@@ -8,6 +8,7 @@
 - 🏴 LAVA: lava@valoper18jdhsrm7s6zjlms3qssyy4h5h85n5mfyv697rr
 
 ## Guides 🕷️
+- 🥅 Web Application Flow. Portal: [click -> github](https://github.com/Keleto44/portal-app)
 - ⛩️ Run a Node. Ritual: [click -> teletype](https://teletype.in/@keleto44/Schw2u-iIfo)
 - 🎸 0g da node guide: [click -> teletype](https://teletype.in/@keleto44/da-node-guide)
 - 🤘 0g storage node guide: [click -> teletype](https://teletype.in/@keleto44/storage-node-guide)
